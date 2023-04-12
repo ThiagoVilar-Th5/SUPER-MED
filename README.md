@@ -1,7 +1,6 @@
 # SUPER-MED
 
-O projeto tem como objetivo otimizar o atendimento de clinica medica e facilitar os seus usuarios a utilizar os serviços que a mesma os oferece, 
-dessa forma o SUPER-MED veio pra revolucionar o mercado de dispositivos em termo de interface a tecnologias 
+O projeto tem como objetivo otimizar o atendimento de clínicas médicas e facilitar acesso junto aos usuarios. Dessa forma o SUPER-MED veio para revolucionar o mercado de dispositivos em termo de interface a tecnologias fornecendo serviços de alta complexidade e precisão. 
 
 ## 🚀 Começando
 
@@ -19,7 +18,7 @@ Computador ou celular com memoria igual ou superior a 4gb de memoria processador
 
 Passo 1:
 
-Se dirija a apple store ou a play store na barra de pesquisa digite SUPER MED.
+Se dirija a apple store ou a play store na barra de pesquisa digite SUPER-MED.
 
 Passo 2:
 
@@ -27,24 +26,18 @@ Conforme pesquisado clique no botão instalar.
 
 Finalmente, clique na opção instalar ou se aparecer algum termo de uso, clique no botão e em seguida em Instalar. O programa estará pronto para ser usado e será salvo dentro do celular.
 
-
-
-
 ## 📦 Implantação
 
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-
-* [React Native](https://reactnative.dev/) - Linguagem utilizada
-
-
+* [React Native](https://reactnative.dev/) - Linguagem utilizada javascript;
 
 
 ## 📌 Versão
 
-Em teste 
+Em teste v0.1 (Beta)
 
 ## ✒️ Autores
 
@@ -56,5 +49,5 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 📄 Licença
 
-Em construção
+Em construção...
 
