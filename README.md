@@ -1,12 +1,13 @@
 # SUPER-MED
 
-Um parágrafo da descrição do projeto vai aqui
+O projeto tem como objetivo otimizar o atendimento de clinica medica e facilitar os seus usuarios a utilizar os serviços que a mesma os oferece, 
+dessa forma o SUPER-MED veio pra revolucionar o mercado de dispositivos em termo de interface a tecnologias 
 
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+
 
 ### 📋 Pré-requisitos
 
