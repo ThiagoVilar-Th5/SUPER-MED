@@ -12,9 +12,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 Computador ou celular com memoria igual ou superior a 4gb de memoria processador de 2.5ghz
 
-```
-Dar exemplos
-```
+
 
 ### 🔧 Instalação
 
