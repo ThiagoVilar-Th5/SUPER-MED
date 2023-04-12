@@ -5,7 +5,7 @@ dessa forma o SUPER-MED veio pra revolucionar o mercado de dispositivos em termo
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação no seu dispositivo ou máquina local para fins de desenvolvimento e teste.
 
 
 
@@ -21,7 +21,7 @@ Passo 1:
 
 Se dirija a apple store ou a play store na barra de pesquisa digite SUPER MED.
 
-Passo 2 :
+Passo 2:
 
 Conforme pesquisado clique no botão instalar.
 
